@@ -19,6 +19,6 @@
     <a href="https://www.proxmox.com/" target="_blank"> <img src="https://www.proxmox.com/images/proxmox/proxmox-logo-stacked-inverted-color.png" height=70px width=70px></a>
     <a href="https://www.nginx.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354115/nginx.svg" height=70px width=70px></a>
     <a href="https://wiki.postgresql.org/" target="_blank"> <img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" height=70px width=70px></a>
-    <a href="" target="_blank"> <img src="" height=70px width=70px></a>
-    <a href="" target="_blank"> <img src="" height=70px width=70px></a>
+    <a href="https://redis.io/" target="_blank"> <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" height=70px width=70px></a>
+    <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height=70px width=70px></a>
 </p>
