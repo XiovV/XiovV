@@ -14,5 +14,11 @@
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" height=70px width=70px> </a> 
     <a href="https://nodejs.org/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" height=70px width=114px></a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/XiovV/XiovV/blob/main/docker_logo.png?raw=true" height=70px width=123px></a>
-    
+    <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/506px-Tux.svg.png?20220320193426" height=70px width=59px></a>
+    <a href="https://www.ansible.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ansible/logos/10c510d36c4e527be006ca1fcb5d40ead8583323/vscode-ansible.svg" height=70px width=70px></a>
+    <a href="https://www.proxmox.com/" target="_blank"> <img src="https://www.proxmox.com/images/proxmox/proxmox-logo-stacked-inverted-color.png" height=70px width=70px></a>
+    <a href="" target="_blank"> <img src="" height=70px width=70px></a>
+    <a href="" target="_blank"> <img src="" height=70px width=70px></a>
+    <a href="" target="_blank"> <img src="" height=70px width=70px></a>
+    <a href="" target="_blank"> <img src="" height=70px width=70px></a>
 </p>
