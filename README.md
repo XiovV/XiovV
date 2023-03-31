@@ -26,14 +26,20 @@
 
 ## 📊 GitHub Stats:
 
+<p align="center"><img alt="Damir Github Stats" src="https://github-readme-stats.vercel.app/api?username=XiovV&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0a1e17&text_color=5affc8&title_color=5affc8&icon_color=5affc8"/></p>
+
+<br/>
+
 <p align="center">
     <img title="Streak stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=XiovV&theme=green-nur"/>
 </p>
+
 <br/>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiovV&langs_count=8&count_private=true&layout=compact&&hide_border=false&bg_color=0a1e17&text_color=5affc8&title_color=5affc8" width = 500px />
-
-<br/>    
+    
+<br/>
+<br/>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=XiovV"></a>
