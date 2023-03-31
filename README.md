@@ -23,3 +23,15 @@
     <a href="https://redis.io/" target="_blank"> <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" height=70px width=70px></a>
     <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height=70px width=70px></a>
 </p>
+
+## 📊 My Github Stats
+
+<p align="center">
+    <img title="Streak stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=XiovV&theme=green-nur"/>
+</p>
+<br/>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiovV&langs_count=8&count_private=true&layout=compact&&hide_border=true&bg_color=0a1e17&text_color=5affc8&title_color=5affc8" width = 500px /></p>
+
+<br/>
+<br/>
