@@ -17,8 +17,8 @@
     <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/506px-Tux.svg.png?20220320193426" height=70px width=59px></a>
     <a href="https://www.ansible.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ansible/logos/10c510d36c4e527be006ca1fcb5d40ead8583323/vscode-ansible.svg" height=70px width=70px></a>
     <a href="https://www.proxmox.com/" target="_blank"> <img src="https://www.proxmox.com/images/proxmox/proxmox-logo-stacked-inverted-color.png" height=70px width=70px></a>
-    <a href="" target="_blank"> <img src="" height=70px width=70px></a>
-    <a href="" target="_blank"> <img src="" height=70px width=70px></a>
+    <a href="https://www.nginx.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354115/nginx.svg" height=70px width=70px></a>
+    <a href="https://wiki.postgresql.org/" target="_blank"> <img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" height=70px width=70px></a>
     <a href="" target="_blank"> <img src="" height=70px width=70px></a>
     <a href="" target="_blank"> <img src="" height=70px width=70px></a>
 </p>
