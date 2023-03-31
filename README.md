@@ -24,7 +24,7 @@
     <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height=70px width=70px></a>
 </p>
 
-## 📊 My Github Stats
+## 📊 GitHub Stats:
 
 <p align="center">
     <img title="Streak stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=XiovV&theme=green-nur"/>
