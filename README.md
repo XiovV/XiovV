@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: <a href="https://github.com/XiovV/dokkup" target="_blank">**dokkupo**</a>
+- 🔭 I’m currently working on: <a href="https://github.com/XiovV/dokkup" target="_blank">**dokkup**</a>
 - 🌱 I’m currently learning: **Frontend Web Development**
 - 📫 How to reach me: <a href="mailto:damir@damirhadzagic.com" target="_blank">**damir@damirhadzagic.com**</a>
 - ⚡ Fun fact: I love motorsports and motorcycles.
