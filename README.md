@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: <a href="https://github.com/XiovV/dokkup" target="_blank">**dokkup**</a>
 - 🌱 I’m currently learning: <a href="https://react.dev" target="_blank">**React**</a>
 - 📫 How to reach me: <a href="mailto:damir@damirhadzagic.com" target="_blank">**damir@damirhadzagic.com**</a>
-- ⚡ Fun fact: I love motorsports and motorcycles.
+- ⚡ Fun fact: I'm a simracing enthusiast.
 
 
 ## 🚀 Languages and Tools:
