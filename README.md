@@ -27,7 +27,7 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-    <img title="Streak stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=XiovV&theme=green-nur"/>
+    <img title="Streak stats" alt="XiovV's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=XiovV&theme=green-nur"/>
 </p>
 
 <br/>
