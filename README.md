@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: <a href="https://github.com/XiovV/dokkup" target="_blank">**dokkup**</a>
+- 🔭 I’m currently working on: <a href="https://github.com/XiovV/Golty" target="_blank">**Golty**</a>
 - 🌱 I’m currently learning: <a href="https://nextjs.org" target="_blank">**Next.js**</a>
 - 📫 How to reach me: <a href="mailto:damir@damirhadzagic.com" target="_blank">**damir@damirhadzagic.com**</a>
 - ⚡ Fun fact: I love simracing.
