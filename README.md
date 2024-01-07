@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on: <a href="https://github.com/XiovV/Golty" target="_blank">**Golty**</a>
-- 🌱 I’m currently learning: <a href="https://kit.svelte.dev" target="_blank">**SvelteKit**</a>
+- 🌱 I’m currently learning: <a href="https://laravel.com" target="_blank">**Laravel**</a>
 - 📫 How to reach me: <a href="mailto:damir@damirhadzagic.com" target="_blank">**damir@damirhadzagic.com**</a>
 - ⚡ Fun fact: I love simracing.
 
