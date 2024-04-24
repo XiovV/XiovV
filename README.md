@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: <a href="https://github.com/XiovV/Golty" target="_blank">**Golty**</a>
 - 🌱 I’m currently learning: <a href="https://vuejs.org" target="_blank">**Vue**</a>
 - 📫 How to reach me: <a href="mailto:damir@damirhadzagic.com" target="_blank">**damir@damirhadzagic.com**</a>
-- ⚡ Fun fact: I love simracing.
+- ⚡ Fun fact: I love homelabbing and motorsports!
 
 
 ## 🚀 Languages and Tools:
